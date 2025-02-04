@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Story Up</string>
+
+    // main
+    <string name="welcomePage">Welcome To Story Up!</string>
+    <string name="welcomeMessage">Lets share your story with Story Up ^^</string>
+    <string name="btnSignup">Signup</string>
+    <string name="btnLogin">Login</string>
+
+    // signup
+    <string name="signupMessage">complete your personal data below!</string>
+    <string name="nama">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    // login
+    <string name="loginMessage">Ready to share your story?</string>
+    <string name="descMessage">enter your data!</string>
+
+    // Story
+    <string name="username">Nama User</string>
+    <string name="desc">Deskripsi</string>
+
+    // Menu
+    <string name="keluar">Logout</string>
+
+    // Add Story
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="descadd">Enter Description</string>
+    <string name="upload">Upload</string>
+    <string name="tambahStory">Add a new story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
